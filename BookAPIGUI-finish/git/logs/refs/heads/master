@@ -1,0 +1,20 @@
+0000000000000000000000000000000000000000 be4a14e1a216ec2f7a781800de4d0531cd98b512 Pavol <pavol@homerundesign.com> 1555375350 -0400	commit (initial): Book API
+be4a14e1a216ec2f7a781800de4d0531cd98b512 e2392c035efafa7b3af5fdcabe93f2f7153d05cc Pavol <pavol@homerundesign.com> 1555385069 -0400	commit: Adding Services and Interfaces
+e2392c035efafa7b3af5fdcabe93f2f7153d05cc 9c7eeaca0d2dafd3a66a628325df9568c244664a Pavol <pavol@homerundesign.com> 1555469757 -0400	commit: GetCountries Implementation
+9c7eeaca0d2dafd3a66a628325df9568c244664a e8ad694ab1f0a11a7ddd0163d10ce3c5de77e197 Pavol <pavol@homerundesign.com> 1555561782 -0400	commit: Creating CountriesController and Index Action and View
+e8ad694ab1f0a11a7ddd0163d10ce3c5de77e197 dc496c13931739dea578c2119188c0fcd6a9b200 Pavol <pavol@homerundesign.com> 1555647200 -0400	commit: Finishing Countries Repository and Controller
+dc496c13931739dea578c2119188c0fcd6a9b200 94e772a0e44c366084b91078e4dc8ebcecd4f333 Pavol <pavol@homerundesign.com> 1555727280 -0400	commit: Implementing Categories Interface Repository And Actions
+94e772a0e44c366084b91078e4dc8ebcecd4f333 e9aef400d9fb106065f86e310c30520374403157 Pavol <pavol@homerundesign.com> 1555736605 -0400	commit: Implementing Reviewer and Review Interfaces
+e9aef400d9fb106065f86e310c30520374403157 f687acf9871a505ae999a0e57a7f19c5441607bb Pavol <pavol@homerundesign.com> 1555820400 -0400	commit: Finishing Reviewers; Debuging and fixing API call errors (misspelled URIs)
+f687acf9871a505ae999a0e57a7f19c5441607bb a513bb3fa748c08a52115f4196cc179aae40fb68 Pavol <pavol@homerundesign.com> 1555894309 -0400	commit: Reviews and Authors Controller; Updating CountriesController
+a513bb3fa748c08a52115f4196cc179aae40fb68 66f220d54ad385d143f26d16a7aca9eca0e13df3 Pavol <pavol@homerundesign.com> 1555981408 -0400	commit: Implementing Book Interface and Index Action and View
+66f220d54ad385d143f26d16a7aca9eca0e13df3 547b1b158441fb420a7f4bc90de1f83c8d6900b2 Pavol <pavol@homerundesign.com> 1556069169 -0400	commit: Creating GetBookById Action and View
+547b1b158441fb420a7f4bc90de1f83c8d6900b2 18541cd9084fc478746a08f931da900f347652cc Pavol <pavol@homerundesign.com> 1556159417 -0400	commit: Styling the pages; adding navigation bar
+18541cd9084fc478746a08f931da900f347652cc e05bdd4c31e892b69da72887da97f7109737d055 Pavol <pavol@homerundesign.com> 1556243455 -0400	commit: Create, Update, Delete Country
+e05bdd4c31e892b69da72887da97f7109737d055 4666affeaefbdfcec878bbdacc3e2d1ca434bc15 Pavol <pavol@homerundesign.com> 1556411351 -0400	commit: CRUD for Categories and Reviewers
+4666affeaefbdfcec878bbdacc3e2d1ca434bc15 36e43ca494a0f2158faefc8b34f9d6ebf52a2086 Pavol <pavol@homerundesign.com> 1556510992 -0400	commit: Adding CRUD for Reviews
+36e43ca494a0f2158faefc8b34f9d6ebf52a2086 1f9ccc4993927064550e9cdf7287fec4bd911f67 Pavol <pavol@homerundesign.com> 1556592088 -0400	commit: Finishing CRUD for Reviews
+1f9ccc4993927064550e9cdf7287fec4bd911f67 4c1dddb107c0b3cc56d7d10636fd85ca802b107a Pavol <pavol@homerundesign.com> 1556677809 -0400	commit: Author CRUD
+4c1dddb107c0b3cc56d7d10636fd85ca802b107a 0f91eb1173d41fd91387701679fb5a0e29c6e178 Pavol <pavol@homerundesign.com> 1556762529 -0400	commit: Creating Book
+0f91eb1173d41fd91387701679fb5a0e29c6e178 9620206945897daadf7d33d234cbdd4a1108a2c8 Pavol <pavol@homerundesign.com> 1556844110 -0400	commit: Create Book Action and View
+9620206945897daadf7d33d234cbdd4a1108a2c8 67afd2aea3694e9359d919b5eac495f067bf2b4e Pavol <pavol@homerundesign.com> 1556933632 -0400	commit: Last commit
